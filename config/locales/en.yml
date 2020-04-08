@@ -1,203 +1,204 @@
 en:
-  accessibility_statement:
-    title: Accessibility statement
-    body_text: |
-      <p class="govuk-body">This accessibility statement applies to the service on GOV.UK to get coronavirus support as an extremely vulnerable person.</p>
-      <p class="govuk-body">This website is run by the Government Digital Service. It is designed to be used by as many people as possible. The text should be clear and simple to understand. You should be able to:</p>
-      <ul class="govuk-list govuk-list--bullet">
-        <li>zoom in up to 300% without problems</li>
-        <li>navigate most of the website using just a keyboard</li>
-        <li>navigate most of the website using speech recognition software</li>
-        <li>use most of the website using a screen reader (including the most recent versions of JAWS, NVDA and VoiceOver)</li>
-      </ul>
-      <h2 class="govuk-heading-m">Reporting accessibility problems with this website</h2>
-      <p class="govuk-body">We’re always looking to improve the accessibility of this website. If you find any problems not listed on this page or think we’re not meeting accessibility requirements, <a class="govuk-link" href="https://www.gov.uk/contact/govuk">contact us</a>.</p>
-      <h2 class="govuk-heading-m">Enforcement procedure</h2>
-      <p class="govuk-body">The Equality and Human Rights Commission (EHRC) is responsible for enforcing the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018 (the ‘accessibility regulations’). If you’re not happy with how we respond to your complaint, contact the <a class="govuk-link" href="https://www.equalityadvisoryservice.com/" rel="external">Equality Advisory and Support Service (EASS)</a>.</p>
-      <h2 class="govuk-heading-m">Technical information about this website’s accessibility</h2>
-      <p class="govuk-body">The Government Digital Service is committed to making its websites accessible, in accordance with the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018.</p>
-      <p class="govuk-body">This website is fully compliant with the Web Content Accessibility Guidelines version 2.1 AA standard.</p>
-      <h2 class="govuk-heading-m">How we tested this website</h2>
-      <p class="govuk-body">This website was last tested on 27 March 2020. The test was carried out by the Government Digital Service, based on the <a class="govuk-link" href="https://design-system.service.gov.uk/accessibility/">accessibility statement for the GOV.UK Design System</a>.</p>
-      <p class="govuk-body">This statement was prepared on 27 March 2020. It was last updated on 27 March 2020.</p>
-  privacy_page:
-    title: Privacy
-    body_text: |
-      <p class="govuk-body">Last updated: 31 March 2020</p>
-      <p class="govuk-body">This service is run by the Cabinet Office, working with:</p>
-      <ul class="govuk-list govuk-list--bullet">
-        <li>the Ministry of Housing, Communities & Local Government</li>
-        <li>the Department for Environment Food & Rural Affairs</li>
-        <li>the Department for Work & Pensions</li>
-        <li>the National Health Service (NHS)</li>
-      </ul>
-      <p class="govuk-body">We’ll use the personal information you provide through this service to help make sure that people with a medical condition that makes them extremely vulnerable to coronavirus get the support they need.</p>
-      <p class="govuk-body">We’ll also use it to check your needs against data provided to us by the NHS, and to contact you with further advice or information.</p>
-      <p class="govuk-body">This privacy notice covers:</p>
-      <ul class="govuk-list govuk-list--bullet">
-        <li>the online service, where you can enter the information that we need to get support to you where you live</li>
-        <li>the automated telephone service, where you can provide the same information over the phone</li>
-      </ul>
-      <h2 class="govuk-heading-m">Lawful basis for processing your personal information</h2>
-      <p class="govuk-body">Under the General Data Protection Regulation (GDPR), we are processing this information on the basis that we’re carrying out a task in the public interest and to protect the vital interests of people more vulnerable to coronavirus.</p>
-      <p class="govuk-body">This lawful basis applies to:</p>
-      <ul class="govuk-list govuk-list--bullet">
-      <li>information shared with us by the NHS</li>
-      <li> provided to us through the online service or the automated telephone service</li>
-      </ul>
-      <p class="govuk-body">Some of the information we hold is sensitive health and care information. This is classed as ‘special category’ personal data within the meaning of Schedule 1 to the Data Protection Act 2018, meaning we must state a further lawful basis for processing it. We’re also relying on substantial public interest and governmental purpose to process this information.</p>
-      <h2 class="govuk-heading-m">What we do with your information</h2>
-      <p class="govuk-body">When you submit information through the online service or the automated telephone service, we will compare your information to information shared with us by the NHS.</p>
-      <p class="govuk-body">We ask for information about you and those who are supporting you through the online service and the automated telephone service. We may ask for more information as part of your subsequent interactions with the service.</p>
-      <p class="govuk-body">We’ll share relevant parts of your information with other government departments, NHS bodies, local authorities and other public sector and private sector organisations - depending on what’s necessary to get people the support they need.</p>
-      <p class="govuk-body">We may share your personal information with other public sector bodies in order to make sure that we and they have accurate data on who is vulnerable to coronavirus and to make sure we get help to the people who need it.</p>
-      <p class="govuk-body">We may share your personal information (except for confidential health and care information) with trusted supermarkets and other suppliers, so they can prioritise your orders if you have indicated that you need help getting basic supplies.</p>
-      <h2 class="govuk-heading-m">How long we keep your information</h2>
-      <p class="govuk-body">We will only keep your personal information for as long as we need it:</p>
-      <ul class="govuk-list govuk-list--bullet">
-        <li>to make sure that you get the support you need if you are a person with a medical condition which makes you vulnerable</li>
-        <li>to make sure this service is meeting overall demand from vulnerable people</li>
-        <li>to help with the overall government response to coronavirus</li>
-      </ul>
-      <h2 class="govuk-heading-m">Where your data is processed and stored</h2>
+  find_support:
+    accessibility_statement:
+      title: Accessibility statement
+      body_text: |
+        <p class="govuk-body">This accessibility statement applies to the service on GOV.UK to get coronavirus support as an extremely vulnerable person.</p>
+        <p class="govuk-body">This website is run by the Government Digital Service. It is designed to be used by as many people as possible. The text should be clear and simple to understand. You should be able to:</p>
+        <ul class="govuk-list govuk-list--bullet">
+          <li>zoom in up to 300% without problems</li>
+          <li>navigate most of the website using just a keyboard</li>
+          <li>navigate most of the website using speech recognition software</li>
+          <li>use most of the website using a screen reader (including the most recent versions of JAWS, NVDA and VoiceOver)</li>
+        </ul>
+        <h2 class="govuk-heading-m">Reporting accessibility problems with this website</h2>
+        <p class="govuk-body">We’re always looking to improve the accessibility of this website. If you find any problems not listed on this page or think we’re not meeting accessibility requirements, <a class="govuk-link" href="https://www.gov.uk/contact/govuk">contact us</a>.</p>
+        <h2 class="govuk-heading-m">Enforcement procedure</h2>
+        <p class="govuk-body">The Equality and Human Rights Commission (EHRC) is responsible for enforcing the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018 (the ‘accessibility regulations’). If you’re not happy with how we respond to your complaint, contact the <a class="govuk-link" href="https://www.equalityadvisoryservice.com/" rel="external">Equality Advisory and Support Service (EASS)</a>.</p>
+        <h2 class="govuk-heading-m">Technical information about this website’s accessibility</h2>
+        <p class="govuk-body">The Government Digital Service is committed to making its websites accessible, in accordance with the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018.</p>
+        <p class="govuk-body">This website is fully compliant with the Web Content Accessibility Guidelines version 2.1 AA standard.</p>
+        <h2 class="govuk-heading-m">How we tested this website</h2>
+        <p class="govuk-body">This website was last tested on 27 March 2020. The test was carried out by the Government Digital Service, based on the <a class="govuk-link" href="https://design-system.service.gov.uk/accessibility/">accessibility statement for the GOV.UK Design System</a>.</p>
+        <p class="govuk-body">This statement was prepared on 27 March 2020. It was last updated on 27 March 2020.</p>
+    privacy_page:
+      title: Privacy
+      body_text: |
+        <p class="govuk-body">Last updated: 31 March 2020</p>
+        <p class="govuk-body">This service is run by the Cabinet Office, working with:</p>
+        <ul class="govuk-list govuk-list--bullet">
+          <li>the Ministry of Housing, Communities & Local Government</li>
+          <li>the Department for Environment Food & Rural Affairs</li>
+          <li>the Department for Work & Pensions</li>
+          <li>the National Health Service (NHS)</li>
+        </ul>
+        <p class="govuk-body">We’ll use the personal information you provide through this service to help make sure that people with a medical condition that makes them extremely vulnerable to coronavirus get the support they need.</p>
+        <p class="govuk-body">We’ll also use it to check your needs against data provided to us by the NHS, and to contact you with further advice or information.</p>
+        <p class="govuk-body">This privacy notice covers:</p>
+        <ul class="govuk-list govuk-list--bullet">
+          <li>the online service, where you can enter the information that we need to get support to you where you live</li>
+          <li>the automated telephone service, where you can provide the same information over the phone</li>
+        </ul>
+        <h2 class="govuk-heading-m">Lawful basis for processing your personal information</h2>
+        <p class="govuk-body">Under the General Data Protection Regulation (GDPR), we are processing this information on the basis that we’re carrying out a task in the public interest and to protect the vital interests of people more vulnerable to coronavirus.</p>
+        <p class="govuk-body">This lawful basis applies to:</p>
+        <ul class="govuk-list govuk-list--bullet">
+        <li>information shared with us by the NHS</li>
+        <li> provided to us through the online service or the automated telephone service</li>
+        </ul>
+        <p class="govuk-body">Some of the information we hold is sensitive health and care information. This is classed as ‘special category’ personal data within the meaning of Schedule 1 to the Data Protection Act 2018, meaning we must state a further lawful basis for processing it. We’re also relying on substantial public interest and governmental purpose to process this information.</p>
+        <h2 class="govuk-heading-m">What we do with your information</h2>
+        <p class="govuk-body">When you submit information through the online service or the automated telephone service, we will compare your information to information shared with us by the NHS.</p>
+        <p class="govuk-body">We ask for information about you and those who are supporting you through the online service and the automated telephone service. We may ask for more information as part of your subsequent interactions with the service.</p>
+        <p class="govuk-body">We’ll share relevant parts of your information with other government departments, NHS bodies, local authorities and other public sector and private sector organisations - depending on what’s necessary to get people the support they need.</p>
+        <p class="govuk-body">We may share your personal information with other public sector bodies in order to make sure that we and they have accurate data on who is vulnerable to coronavirus and to make sure we get help to the people who need it.</p>
+        <p class="govuk-body">We may share your personal information (except for confidential health and care information) with trusted supermarkets and other suppliers, so they can prioritise your orders if you have indicated that you need help getting basic supplies.</p>
+        <h2 class="govuk-heading-m">How long we keep your information</h2>
+        <p class="govuk-body">We will only keep your personal information for as long as we need it:</p>
+        <ul class="govuk-list govuk-list--bullet">
+          <li>to make sure that you get the support you need if you are a person with a medical condition which makes you vulnerable</li>
+          <li>to make sure this service is meeting overall demand from vulnerable people</li>
+          <li>to help with the overall government response to coronavirus</li>
+        </ul>
+        <h2 class="govuk-heading-m">Where your data is processed and stored</h2>
 
-      <p class="govuk-body">Your personal data may be transferred outside the UK while being processed by the Cabinet Office. If this happens, we’ll make sure you’re given the same level of technical and legal data protection as you are within the UK.</p>
-      <h2 class="govuk-heading-m">How we protect your information</h2>
-      <p class="govuk-body">We’re committed to doing all that we can to keep your information secure. We have set up systems and processes to prevent unauthorised access to or disclosure of the data we collect about you – for example, we protect your data using varying levels of encryption. All third parties that process personal data as part of this online service and the automated telephone service are required to keep that data secure. Our data processor is Amazon Web Services, who provide cloud hosting services.</p>
+        <p class="govuk-body">Your personal data may be transferred outside the UK while being processed by the Cabinet Office. If this happens, we’ll make sure you’re given the same level of technical and legal data protection as you are within the UK.</p>
+        <h2 class="govuk-heading-m">How we protect your information</h2>
+        <p class="govuk-body">We’re committed to doing all that we can to keep your information secure. We have set up systems and processes to prevent unauthorised access to or disclosure of the data we collect about you – for example, we protect your data using varying levels of encryption. All third parties that process personal data as part of this online service and the automated telephone service are required to keep that data secure. Our data processor is Amazon Web Services, who provide cloud hosting services.</p>
 
-      <h2 class="govuk-heading-m">Your rights</h2>
-      <p class="govuk-body">In certain circumstances you have the right to ask for your information to be deleted by contacting the data controller. We may need to refuse your request if the information is needed as part of the emergency response to coronavirus.</p>
-      <p class="govuk-body">You also have the right to request:</p>
-      <ul class="govuk-list govuk-list--bullet">
-        <li>information about how your personal information is processed, and to request a copy of that personal data</li>
-        <li>that any inaccuracies in your personal information are rectified without delay</li>
-        <li>that any incomplete personal information is updated - you can include the missing information in your request</li>
-        <li>that the processing of your personal information is restricted in certain circumstances - for example, where accuracy is contested</li>
-      </ul>
-      <p class="govuk-body">You also have the right to object to the processing of your data.</p>
-      <p class="govuk-body">If you want to make any of these requests, contact us using the details below.</p>
-      <h2 class="govuk-heading-m">Questions and complaints</h2>
-      <p class="govuk-body">The contact details for the data controller are:</p>
-      <ul class="govuk-list">
-        <li>Cabinet Office (Government Digital Service),<br>The White Chapel Building,<br> 10 Whitechapel High Street, <br>London, E1 8QS</li>
-        <li><a class="govuk-link" href="mailto:gds-privacy-office@digital.cabinet-office.gov.uk">gds-privacy-office@digital.cabinet-office.gov.uk</a></li>
-      </ul>
-      <p class="govuk-body">The contact details for the data controller’s Data Protection Officer are:</p>
-      <ul class="govuk-list">
-        <li>Stephen Jones,<br> Data Protection Officer,<br> Cabinet Office,<br> 70 Whitehall,<br> London, SW1A 2AS</li>
-        <li><a class="govuk-link" href="mailto:dpo@cabinetoffice.gov.uk">dpo@cabinetoffice.gov.uk</a></li>
-      </ul>
-      <p class="govuk-body">The Data Protection Officer provides independent advice and monitoring of Cabinet Office’s use of personal information.</p>
-      <p class="govuk-body">If you consider that your personal information has been misused or mishandled, you can make a complaint to the Information Commissioner, who is an independent regulator. The Information Commissioner can be contacted at:</p>
-      <ul class="govuk-list">
-        <li>Information Commissioner’s Office, <br>Wycliffe House,<br> Water Lane,<br> Wilmslow,<br> Cheshire, SK9 5AF</li>
-        <li><a class="govuk-link" href="tel:+443031231113">0303 123 1113</a></li>
-        <li><a class="govuk-link" href="mailto:casework@ico.org.uk">casework@ico.org.uk</a></li>
-      </ul>
-      <p class="govuk-body">Any complaint to the Information Commissioner won’t affect your right to seek redress through the courts.</p>
-      <h2 class="govuk-heading-m">Changes to this notice</h2>
-      <p class="govuk-body">We may change this privacy notice. When we make changes to this notice, the ‘last updated’ date at the top of this page will also change. Any changes to this privacy notice will apply to you and your information immediately. If these changes affect how your personal information is processed, the Cabinet Office will take reasonable steps to make sure you know.</p>
-  session_expired:
-    title: Your session has ended due to inactivity
-    body_text: |
-      <p class="govuk-body">Your session has ended because you have not done anything for 4 hours. You'll have to start again.</p>
+        <h2 class="govuk-heading-m">Your rights</h2>
+        <p class="govuk-body">In certain circumstances you have the right to ask for your information to be deleted by contacting the data controller. We may need to refuse your request if the information is needed as part of the emergency response to coronavirus.</p>
+        <p class="govuk-body">You also have the right to request:</p>
+        <ul class="govuk-list govuk-list--bullet">
+          <li>information about how your personal information is processed, and to request a copy of that personal data</li>
+          <li>that any inaccuracies in your personal information are rectified without delay</li>
+          <li>that any incomplete personal information is updated - you can include the missing information in your request</li>
+          <li>that the processing of your personal information is restricted in certain circumstances - for example, where accuracy is contested</li>
+        </ul>
+        <p class="govuk-body">You also have the right to object to the processing of your data.</p>
+        <p class="govuk-body">If you want to make any of these requests, contact us using the details below.</p>
+        <h2 class="govuk-heading-m">Questions and complaints</h2>
+        <p class="govuk-body">The contact details for the data controller are:</p>
+        <ul class="govuk-list">
+          <li>Cabinet Office (Government Digital Service),<br>The White Chapel Building,<br> 10 Whitechapel High Street, <br>London, E1 8QS</li>
+          <li><a class="govuk-link" href="mailto:gds-privacy-office@digital.cabinet-office.gov.uk">gds-privacy-office@digital.cabinet-office.gov.uk</a></li>
+        </ul>
+        <p class="govuk-body">The contact details for the data controller’s Data Protection Officer are:</p>
+        <ul class="govuk-list">
+          <li>Stephen Jones,<br> Data Protection Officer,<br> Cabinet Office,<br> 70 Whitehall,<br> London, SW1A 2AS</li>
+          <li><a class="govuk-link" href="mailto:dpo@cabinetoffice.gov.uk">dpo@cabinetoffice.gov.uk</a></li>
+        </ul>
+        <p class="govuk-body">The Data Protection Officer provides independent advice and monitoring of Cabinet Office’s use of personal information.</p>
+        <p class="govuk-body">If you consider that your personal information has been misused or mishandled, you can make a complaint to the Information Commissioner, who is an independent regulator. The Information Commissioner can be contacted at:</p>
+        <ul class="govuk-list">
+          <li>Information Commissioner’s Office, <br>Wycliffe House,<br> Water Lane,<br> Wilmslow,<br> Cheshire, SK9 5AF</li>
+          <li><a class="govuk-link" href="tel:+443031231113">0303 123 1113</a></li>
+          <li><a class="govuk-link" href="mailto:casework@ico.org.uk">casework@ico.org.uk</a></li>
+        </ul>
+        <p class="govuk-body">Any complaint to the Information Commissioner won’t affect your right to seek redress through the courts.</p>
+        <h2 class="govuk-heading-m">Changes to this notice</h2>
+        <p class="govuk-body">We may change this privacy notice. When we make changes to this notice, the ‘last updated’ date at the top of this page will also change. Any changes to this privacy notice will apply to you and your information immediately. If these changes affect how your personal information is processed, the Cabinet Office will take reasonable steps to make sure you know.</p>
+    session_expired:
+      title: Your session has ended due to inactivity
+      body_text: |
+        <p class="govuk-body">Your session has ended because you have not done anything for 4 hours. You'll have to start again.</p>
 
-      <p class="govuk-body">We do this for your security. We've deleted all the details you entered to protect your data.</p>
-  get_help_from_nhs:
-    title: Get urgent help from the NHS now
-    link_text: Go to NHS 111 online
-    link_href: "https://111.nhs.uk/"
-  coronavirus_form:
-    errors:
-      page_title_prefix: 'Error: '
-      heading: "There is a problem"
-      radio_field: "Select %{field}"
-      checkbox_field: "Select at least one %{field}"
-    questions:
-      urgent_medical_help:
-        title: "Do you need urgent medical help?"
-        description: "You can check if you have coronavirus (COVID-19) symptoms and get medical advice"
-        options:
-          - "Yes"
-          - "No"
-        custom_select_error: "Select yes if you need urgent medical help"
-      feel_safe:
-        title: "Do you feel safe where you live?"
-        options:
-          - "Yes"
-          - "Yes but I’m concerned about the safety of someone else"
-          - "No"
-          - "Not sure"
-      afford_rent_mortgage_bills:
-        title: "Are you finding it hard to afford rent, your mortgage or bills?"
-        options:
-          - "Yes"
-          - "No"
-          - "Not sure"
-      afford_food:
-        title: "Are you finding it hard to afford food?"
-        options:
-          - "Yes"
-          - "No"
-          - "Not sure"
-      get_food:
-        title: "Are you able to get food?"
-        title_caption: "Getting food"
-        options:
-          - "Yes"
-          - "No"
-          - "Not sure"
-      have_you_been_made_unemployed:
-        title: "Have you been made unemployed or put on temporary leave (furloughed)?"
-        title_caption: "Being unemployed or not having any work"
-        options:
-          - "Yes"
-          - "I might be soon"
-          - "No"
-          - "Not sure"
-      are_you_off_work_ill:
-        title: "Are you off work because you’re ill or self-isolating?"
-        title_caption: "Going in to work"
-        options:
-          - "Yes"
-          - "No"
-        custom_select_error: "Select yes if you’re off work because you’re ill or self-isolating"
-      self_employed:
-        title: "Are you self-employed or a sole trader?"
-        title_caption: "Being unemployed or not having any work"
-        options:
-          - "Yes"
-          - "No"
-          - "Not sure"
-      still_working:
-        title: "Are you still going in to work even though you’re not a key worker?"
-        options:
-          - "Yes"
-          - "I do not know if I’m a key worker"
-          - "No"
-      living_with_vulnerable:
-        title: "Are you worried about going into work because you live with someone vulnerable to coronavirus?"
-        options:
-          - "Yes"
-          - "No"
-          - "Not sure"
-      have_somewhere_to_live:
-        title: "Do you have somewhere to live?"
-        options:
-          - "Yes"
-          - "I do now but I might lose it"
-          - "No"
-          - "Not sure"
-      have_you_been_evicted:
-        title: "Have you been evicted?"
-        options:
-          - "Yes"
-          - "I might be evicted soon"
-          - "No"
-          - "Not sure"
-      mental_health_worries:
-        title: "Are you worried about your mental health or someone else‘s mental health?"
-        options:
-          - "Yes"
-          - "No"
-          - "Not sure"
+        <p class="govuk-body">We do this for your security. We've deleted all the details you entered to protect your data.</p>
+    get_help_from_nhs:
+      title: Get urgent help from the NHS now
+      link_text: Go to NHS 111 online
+      link_href: "https://111.nhs.uk/"
+    coronavirus_form:
+      errors:
+        page_title_prefix: 'Error: '
+        heading: "There is a problem"
+        radio_field: "Select %{field}"
+        checkbox_field: "Select at least one %{field}"
+      questions:
+        urgent_medical_help:
+          title: "Do you need urgent medical help?"
+          description: "You can check if you have coronavirus (COVID-19) symptoms and get medical advice"
+          options:
+            - "Yes"
+            - "No"
+          custom_select_error: "Select yes if you need urgent medical help"
+        feel_safe:
+          title: "Do you feel safe where you live?"
+          options:
+            - "Yes"
+            - "Yes but I’m concerned about the safety of someone else"
+            - "No"
+            - "Not sure"
+        afford_rent_mortgage_bills:
+          title: "Are you finding it hard to afford rent, your mortgage or bills?"
+          options:
+            - "Yes"
+            - "No"
+            - "Not sure"
+        afford_food:
+          title: "Are you finding it hard to afford food?"
+          options:
+            - "Yes"
+            - "No"
+            - "Not sure"
+        get_food:
+          title: "Are you able to get food?"
+          title_caption: "Getting food"
+          options:
+            - "Yes"
+            - "No"
+            - "Not sure"
+        have_you_been_made_unemployed:
+          title: "Have you been made unemployed or put on temporary leave (furloughed)?"
+          title_caption: "Being unemployed or not having any work"
+          options:
+            - "Yes"
+            - "I might be soon"
+            - "No"
+            - "Not sure"
+        are_you_off_work_ill:
+          title: "Are you off work because you’re ill or self-isolating?"
+          title_caption: "Going in to work"
+          options:
+            - "Yes"
+            - "No"
+          custom_select_error: "Select yes if you’re off work because you’re ill or self-isolating"
+        self_employed:
+          title: "Are you self-employed or a sole trader?"
+          title_caption: "Being unemployed or not having any work"
+          options:
+            - "Yes"
+            - "No"
+            - "Not sure"
+        still_working:
+          title: "Are you still going in to work even though you’re not a key worker?"
+          options:
+            - "Yes"
+            - "I do not know if I’m a key worker"
+            - "No"
+        living_with_vulnerable:
+          title: "Are you worried about going into work because you live with someone vulnerable to coronavirus?"
+          options:
+            - "Yes"
+            - "No"
+            - "Not sure"
+        have_somewhere_to_live:
+          title: "Do you have somewhere to live?"
+          options:
+            - "Yes"
+            - "I do now but I might lose it"
+            - "No"
+            - "Not sure"
+        have_you_been_evicted:
+          title: "Have you been evicted?"
+          options:
+            - "Yes"
+            - "I might be evicted soon"
+            - "No"
+            - "Not sure"
+        mental_health_worries:
+          title: "Are you worried about your mental health or someone else‘s mental health?"
+          options:
+            - "Yes"
+            - "No"
+            - "Not sure"
